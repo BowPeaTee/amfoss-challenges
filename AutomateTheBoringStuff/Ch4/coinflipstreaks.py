@@ -24,5 +24,4 @@ for experimentNumber in range(10000):
             i+=6
         else:
             i+=1
-print(numberOfStreaks)
 print('Chance of streak: %s%%' % (numberOfStreaks / 100))
